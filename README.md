@@ -1,15 +1,16 @@
 # emailHelper
 
-1. 
+**1. Installation**
 a. Install from github -> includes output folder, company.csv, pitchdeck.pptx, pitchdeck.py
-
 b. Go to cmd [pip install python-pptx]
 c. 
 
 
-2. Preparation
+
+**2. Preparation**
 
 a. Company.csv
+
 right click and edit it in a notepad format, list ur company name row by row only.
 like
 company A
@@ -21,8 +22,7 @@ Edit File if necessary setup variable to be modify like
 {COMPANY} , {NAME}, {PRONOUN} and ...
 
 c. pitchdeck.py
-
-modify 
+modify below accordingly.
     data = {
         '{NAME}' : "Kim Shi Tong",
         '{PRONOUN}' : "Mr",
@@ -30,7 +30,6 @@ modify
         '{MONTH}' : "June",
         '{YEAR}' : "2023"
     }
-accordingly.
 
 3. Execute and run, retrieve folder in company.csv
 
