@@ -2,6 +2,7 @@
 
 1. 
 a. Install from github -> includes output folder, company.csv, pitchdeck.pptx, pitchdeck.py
+
 b. Go to cmd [pip install python-pptx]
 c. 
 
